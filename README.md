@@ -31,7 +31,7 @@ Click "Run" → Done (Minutes)
 
 ### Free Version (Limited)
 👉 Download here:  
-https://codeload.github.com/procurement-optimization-lab/excel-data-split-tool/zip/refs/heads/main
+https://raw.githubusercontent.com/procurement-optimization-lab/excel-data-split-tool/main/Excel%20Data%20Split%20Tool%20(Workflow%20Automation)(Free%20Version).zip
 
 - Up to 5 split items (for evaluation)
 
