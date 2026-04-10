@@ -114,3 +114,6 @@ tv2b4j@bma.biglobe.ne.jp
 ---
 
 ⭐ If this tool helps you, please consider upgrading to the full version.
+
+## Japanese Version
+https://github.com/procurement-optimization-lab/excel-data-split-tool-ja
