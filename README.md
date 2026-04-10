@@ -1,42 +1,109 @@
-# excel-data-split-tool
-Split large Excel datasets automatically by conditions. Reduce hours of manual work to minutes.
+# Excel Data Split Tool (Workflow Automation)
 
-This is a limited free version.
-For full functionality, please check the paid version: https://polab.booth.pm/
+Automatically split large Excel datasets into multiple files in seconds.  
+Save hours of repetitive manual work.
 
-# Excel Data Split Tool（業務効率化）
+---
 
-膨大な行数のExcelデータを、条件ごとに自動で分割するツールです。
+## 🚀 Features
 
-## 概要
+- Split Excel data based on any column (e.g., Supplier, Item Code)
+- Automatically create separate files for each value
+- Optional formatting copy (ON / OFF)
+- One-click execution
+- No programming required
 
-フィルター・コピー・シート分割といった手作業を自動化し、
-数時間かかる作業を数分に短縮します。
+---
 
-## 主な機能
+## ⏱ Before / After
 
-* 条件別データ抽出
-* シート単位での自動分割
-* ワンクリック実行
+**Manual work:**  
+Filter → Copy → Save → Repeat (Hours)
 
-## 対象ユーザー
+**With this tool:**  
+Click "Run" → Done (Minutes)
 
-* 調達・購買部門
-* 事務・営業部門
-* Excelでのデータ整理に時間がかかっている方
+---
 
-## ダウンロード
+## 📦 Download
 
-無料版・有料版はこちら👇
+### Free Version (Limited)
+👉 Download here:  
+(←ここにZIPのリンクを貼る)
 
-https://polab.booth.pm/
+- Up to 5 split items
 
-## 作者について
+---
 
-調達業務20年以上。外資系企業での調達マネージャー、ERP導入（Oracle EBS）に従事。
-実務の中で感じた非効率を解消するためのツール開発を行っています。
+### Full Version (Unlimited)
+👉 Available here:  
+Website in preparation
+Please contact tv2b4j@bma.biglobe.ne.jp for the time being.
 
-## ライセンス
+- Unlimited splitting
+- Recommended for business use
 
-個人利用は自由にお使いください。
-商用利用・カスタマイズについてはお問い合わせください。
+---
+
+## 🛠 How to Use
+
+1. Place the target Excel file in the same folder  
+2. Enter required settings  
+3. Click the **Run** button  
+
+---
+
+## ⚠ Requirements
+
+- Only ONE Excel file in the folder  
+- Close all other Excel files before running  
+
+---
+
+## 📂 Output
+
+- Files are automatically saved in a timestamped folder  
+- File names are based on split values  
+- Blank values are saved as **"EMPTY"**
+
+---
+
+## ❗ Common Errors
+
+- Multiple files in the folder  
+- Incorrect sheet name  
+- Excel file still open  
+- Invalid split condition cell  
+
+---
+
+## 👤 About the Developer
+
+- 20+ years of procurement experience (CPP-A)  
+- Former Procurement Manager in a Fortune 500 company  
+- Experience in global sourcing and ERP implementation (Oracle EBS)  
+
+Specialized in:
+- Excel/VBA automation  
+- Data analysis and reporting  
+- SQL-based data extraction  
+
+👉 Achieved over **10,000 minutes/month** in work time reduction  
+
+---
+
+## 💡 Services
+
+Consultation available for:
+
+- Workflow optimization  
+- Automation  
+- Custom tool development  
+
+👉 Feel free to contact us for business use or customization.
+
+---
+
+## 📧 Contact
+
+tv2b4j@bma.biglobe.ne.jp
