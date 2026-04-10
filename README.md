@@ -39,9 +39,8 @@ https://raw.githubusercontent.com/procurement-optimization-lab/excel-data-split-
 
 ### Full Version (Unlimited)
 👉 Full version available upon request.
-
-Please contact:  
-tv2b4j@bma.biglobe.ne.jp
+👉 Download here:  
+https://procurementlab.gumroad.com/l/excel-data-split-tool
 
 - Unlimited splitting  
 - Recommended for business use  
