@@ -3,6 +3,8 @@
 Automatically split large Excel datasets into multiple files in seconds.  
 Save hours of repetitive manual work.
 
+Designed for procurement and business operations.
+
 ---
 
 ## 🚀 Features
@@ -31,18 +33,18 @@ Click "Run" → Done (Minutes)
 👉 Download here:  
 https://codeload.github.com/procurement-optimization-lab/excel-data-split-tool/zip/refs/heads/main
 
-- Up to 5 split items
+- Up to 5 split items (for evaluation)
 
 ---
 
 ### Full Version (Unlimited)
-👉 Available here:  
-Website in preparation
+👉 Full version available upon request.
 
-Please contact tv2b4j@bma.biglobe.ne.jp for the time being.
+Please contact:  
+tv2b4j@bma.biglobe.ne.jp
 
-- Unlimited splitting
-- Recommended for business use
+- Unlimited splitting  
+- Recommended for business use  
 
 ---
 
@@ -108,3 +110,7 @@ Consultation available for:
 ## 📧 Contact
 
 tv2b4j@bma.biglobe.ne.jp
+
+---
+
+⭐ If this tool helps you, please consider upgrading to the full version.
