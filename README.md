@@ -29,7 +29,7 @@ Click "Run" → Done (Minutes)
 
 ### Free Version (Limited)
 👉 Download here:  
-(←ここにZIPのリンクを貼る)
+https://codeload.github.com/procurement-optimization-lab/excel-data-split-tool/zip/refs/heads/main
 
 - Up to 5 split items
 
